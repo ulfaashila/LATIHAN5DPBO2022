@@ -15,7 +15,8 @@ Saya Ulfa Ashila Hafsari 2007571 mengerjakan LATIHAN5DPBO2022 dalam mata kuliah 
 ![image](https://user-images.githubusercontent.com/99659380/159173186-70a3924c-e3c0-464b-845d-96e8cc814184.png)
 
 #### Tampilan jika data berhasil diupdate
-![image](https://user-images.githubusercontent.com/99659380/159173219-3cc57deb-d5bc-4490-9423-8502c30f19bf.png)
+![image](https://user-images.githubusercontent.com/99659380/159173274-0263a099-491f-483c-95a3-7f62150d82d2.png)
+
 
 
 
